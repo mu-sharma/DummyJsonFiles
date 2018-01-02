@@ -1,0 +1,116 @@
+[{
+    "tableData" : [{
+        "accnt":"23423",
+        "ext":"443",
+        "name":"Acasdf",
+        "office":"kljas",
+        "position":"alkel",
+        "salary":"nmjkh",
+        "startDate":"09/21/2001"
+    },
+    {
+        "accnt":"423",
+        "ext":"443",
+        "name":"Acasdf",
+        "office":"kljas",
+        "position":"alkel",
+        "salary":"nmjkh",
+        "startDate":"09/21/2001"
+    },
+    {
+        "accnt":"2123", 
+        "ext":"443",
+        "name":"Acasdf",
+        "office":"kljas",
+        "position":"alkel",
+        "salary":"nmjkh",
+        "startDate":"09/21/2001"
+    }],
+    "tableProperty":[{
+        "headerLst":[{
+            "colId":"name",
+            "displayTitle":"Name",
+            "filtering":{
+                "filterString":"",
+                "placeholder":"Filter By Name"
+            },
+            "className":"showColumn",
+            "isVisible":true,
+            "sortType":"ASC"
+        },
+        {
+            "colId":"position",
+            "displayTitle":"Position",
+            "filtering":{
+                "filterString":"",
+                "placeholder":"Filter By Position"
+            },
+            "className":"hideColumn",
+            "isVisible":false,
+            "sortType":"ASC"
+        },
+        {
+            "colId":"office",
+            "displayTitle":"Office",
+            "filtering":{
+                "filterString":"",
+                "placeholder":"Filter By Office"
+            },
+            "className":"showColumn",
+            "isVisible":true,
+            "sortType":"ASC"
+        },
+        {
+            "colId":"ext",
+            "displayTitle":"Ext",
+            "filtering":{
+                "filterString":"",
+                "placeholder":"Filter By Ext"
+            },
+            "className":"showColumn",
+            "isVisible":true,
+            "sortType":"ASC"
+        },
+        {
+            "colId":"startDate",
+            "displayTitle":"StartDate",
+            "filtering":{
+                "filterString":"",
+                "placeholder":"Filter By StartDate"
+            },
+            "className":"showColumn",
+            "isVisible":true,
+            "sortType":"ASC"
+        },
+        {
+            "colId":"salary",
+            "displayTitle":"Salary",
+            "filtering":{
+                "filterString":"",
+                "placeholder":"Filter By Salary"
+            },
+            "className":"showColumn",
+            "isVisible":true,
+            "sortType":"ASC"
+        },
+        {
+            "colId":"accnt",
+            "displayTitle":"Accnt",
+            "filtering":{
+                "filterString":"",
+                "placeholder":"Filter By Accnt"
+            },
+            "isVisible":true,
+            "className":"showColumn",
+            "sortType":"ASC"
+        }],
+        "pagination":[
+            {
+                "curPageNo": "3",
+                "pageSize":"20",
+                "totalPages":"50",
+                "totalRec":"100"
+            }
+        ]
+    }]
+}]

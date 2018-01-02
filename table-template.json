@@ -1,0 +1,189 @@
+[
+	{
+        "headerName": [
+            {
+                "title": "Name", 
+                "name": "name", 
+                "filtering": {"filterString": "", "placeholder": "Filter by name"}
+            },
+            {
+              "title": "Position",
+              "name": "position",
+              "filtering": {"filterString": "", "placeholder": "Filter by position"}
+            },
+            {
+                "title": "Office", 
+                "className": ["office-header", "text-success"], 
+                "name": "office",
+                "filtering": {"filterString": "", "placeholder": "Filter by name"}
+            },
+            {
+                "title": "Extn.", 
+                "name": "ext",
+                "filtering": {"filterString": "", "placeholder": "Filter by extn."}
+            },
+            {
+                "title": "Start date", 
+                "className": "text-warning", 
+                "name": "startDate",
+                "filtering": {"filterString": "", "placeholder": "Filter by name"}
+            },
+            {
+                "title": "Salary ($)", 
+                "name": "salary",
+                "filtering": {"filterString": "", "placeholder": "Filter by name"}
+            },
+            {
+                "title": "Account Number", 
+                "name": "accnt",
+                "filtering": {"filterString": "", "placeholder": "Filter by Account Number"}
+            }
+          ],
+        "totalItems" : "100",
+        "data": [
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"231234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            },
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"731234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            },
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"231234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            },
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"231234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            },
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"231234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            },
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"231234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            },
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"231234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            },
+            {
+                "name":"90347",
+                "position":"Abalos,Angelica",
+                "office":"Abbott Laboratories",
+                "ext":"12345",
+                "startDate":"09/21/2017",
+                "salary":"45645",
+                "accnt":"231234"
+            },
+            {
+                "name":"10347",
+                "position":"Balta",
+                "office":"ACS Laboratories",
+                "ext":"3234",
+                "startDate":"01/22/2017",
+                "salary":"65645",
+                "accnt":"131234"
+            }]
+	}
+]
